@@ -1,0 +1,8 @@
+{
+  "name": "node-long-polling",
+  "version": "0.0.1",
+  "description": "node long polling by koa2",
+  "dependencies": {
+
+  }
+}
